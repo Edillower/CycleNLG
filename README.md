@@ -1,13 +1,19 @@
-# Faithful Low-resource Data-to-Text Generation through Cycle Training
+# Faithful Low-resource Data-to-Text Generation through Cycle Training 
 
-Howdy!
+Howdy! 
 
-(July 11th, 2023 Update)
-I'm happy to share that our code is publically available at: https://github.com/amzn/faithful-data2text-cycle-training
-Our code include a little extra functionalies beyond what we have reported in this paper, and feel free to use it for further research : )
-As the we don't have the ownership of the data, we advise you to check the offical data release of WebNLG and DART.
-In the meantime, I will keep this repository open. If you have any questions regarding the preprocessing of the data, running of the model, data annotation, use of the slides, etc., you are very welcomed to open an issue here or email me directely via [wang(at)tamu.edu]. I'm also open to any potential collaboration opportunities. 
-Thanks again for your interests in our work, and we hope it could help you!
+(July 11th, 2023 Update) 
+
+I'm happy to share that our code is publically available at: https://github.com/amzn/faithful-data2text-cycle-training 
+
+Our code include a little extra functionalies beyond what we have reported in this paper, and feel free to use it for further research : ) 
+
+As the we don't have the ownership of the data, we advise you to check the offical data release of WebNLG and DART. 
+
+In the meantime, I will keep this repository open. If you have any questions regarding the preprocessing of the data, running of the model, data annotation, use of the slides, etc., you are very welcomed to open an issue here or email me directely via [wang(at)tamu.edu]. I'm also open to any potential collaboration opportunities.  
+
+Thanks again for your interests in our work, and we hope it could help you! 
+
 
 ~~Our code release is under Amazon's internal approval process.
 The code will be released at https://github.com/amzn, and we will update the repository link once approved. 
