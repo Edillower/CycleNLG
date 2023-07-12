@@ -12,7 +12,7 @@ As the we don't have the ownership of the data, we advise you to check the offic
 
 In the meantime, I will keep this repository open. If you have any questions regarding the preprocessing of the data, running of the model, data annotation, use of the slides, etc., you are very welcomed to open an issue here or email me directely via [wang(at)tamu.edu]. I'm also open to any potential collaboration opportunities.  
 
-Thanks again for your interests in our work, and we hope it could help you! 
+Thanks again for your interests in our work, and we hope it would help you! 
 
 
 ~~Our code release is under Amazon's internal approval process.
