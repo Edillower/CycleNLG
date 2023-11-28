@@ -14,6 +14,22 @@ In the meantime, I will keep this repository open. If you have any questions reg
 
 Thanks again for your interests in our work, and we hope it would help you! 
 
+## FAQ 
+
+1. Preproceesing of WSQL and WTQ 
+https://github.com/amzn/faithful-data2text-cycle-training/issues/2#issuecomment-1828808456 
+
+
+2. Preproceesing of camel-cased/snake-cased strings and accented characters 
+https://github.com/Edillower/CycleNLG/issues/1#issuecomment-1828851626 
+
+
+3. Sample inputs 
+https://github.com/Edillower/CycleNLG/issues/1#issuecomment-1828870476 
+
+
+4. Hyperparameters and backbone model 
+https://github.com/Edillower/CycleNLG/issues/1#issuecomment-1696903257 
 
 ~~Our code release is under Amazon's internal approval process.
 The code will be released at https://github.com/amzn, and we will update the repository link once approved. 
